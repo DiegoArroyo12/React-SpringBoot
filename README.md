@@ -5,3 +5,5 @@ Curso de React para FrontEnd y SpringBoot para BackEnd
 `npm create vite`
 
 Y para instalar las dependencias es con: `npm install`
+
+Para ejecutar el proyecto es con: `npm run dev`
